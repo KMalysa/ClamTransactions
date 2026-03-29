@@ -1,0 +1,13 @@
+package com.kkmalysa.clamtransactions;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ClamTransactionsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ClamTransactionsApplication.class, args);
+	}
+
+}
